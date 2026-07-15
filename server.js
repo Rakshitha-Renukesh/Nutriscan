@@ -1,0 +1,1 @@
+import dashboardRoutes from "./routes/dashboardRoutes.js";
